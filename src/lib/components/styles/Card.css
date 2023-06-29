@@ -1,0 +1,47 @@
+div.background-gradient-yellow-orange {
+  background: -webkit-linear-gradient(
+    270deg,
+    var(#f9d423) 0%,
+    var(#f97d23) 100%
+  );
+  padding: 1.75rem;
+  margin: 0.5rem;
+  border-radius: 0.75rem;
+}
+
+div.white-container {
+  background: white;
+  color: black;
+  border-radius: 0.75rem;
+  display: flex;
+  box-shadow: rgba(100, 100, 111, 0.7) 0px 7px 29px 0px;
+}
+
+img {
+  height: auto;
+  width: 50%;
+  border-start-start-radius: 0.75rem;
+  border-end-start-radius: 0.75rem;
+}
+
+div.text-container {
+  background: transparent;
+  padding: 0.25rem;
+}
+
+div.title {
+  background: transparent;
+  color: black;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 1.25rem;
+}
+
+div.description {
+  background: white;
+  color: #707070;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 300;
+}
