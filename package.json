@@ -1,0 +1,11 @@
+{
+  "name": "veat-restaurant-card",
+  "version": "1.0.0",
+  "description": "School project. Do not use in prod. This package is an embedded card to visualize the key information about your restaurant in the style of the V'Eat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Pavageau",
+  "license": "MIT"
+}
